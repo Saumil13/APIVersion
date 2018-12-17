@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/APIVersion/v15/Server/sqlite3
+/APIVersion/.vs/APIVersion/DesignTimeBuild
+/APIVersion/.vs/APIVersion/v15/Server/sqlite3
+/APIVersion/bin/Debug/netcoreapp2.2
+/APIVersion/obj
